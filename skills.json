@@ -1,0 +1,81 @@
+{
+	"basic_theory": [
+		"what is testing",
+		"bug reports",
+		"documentation",
+		"types",
+		"methods",
+		"test directions",
+		"SDLC",
+		"STLC"
+	],
+	"client_server_archtecture": [
+		"HTTP methods",
+		"HTTP server response codes",
+		"structure of HTTP requests and responses",
+		"what is JSON, XML"
+	],
+	"Postman": [
+		"JS",
+		"API autotests"
+	],
+	"logs":"Removing and reading logs from an external server",
+	"Charles and Fiddler":"Sniffing http web traffic",
+	"Dev Tools": [
+		"Google Chrome",
+		"FireFox"
+	],
+	"VPN": [
+		"How it works",
+		"why you need it",
+		"how to use it",
+		"tool options"
+	],
+	"Mobile testing": [
+		"Feature iOS",
+		"Feature Android",
+		"guidelines",
+		"Building iOS applications on XCode",
+		"Building Android applications on Android Studio",
+		"ADB (android device management)",
+		"Setting up proxy and vpn on iOS and Android",
+		"Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android"
+	],
+	"Command line (terminal) Linux": [
+		"copying",
+		"creating",
+		"viewing",
+		"moving"
+	],
+	"Bash": [
+		"Basics of bash scripting",
+		"automation of routine tasks on the server"
+	],
+	
+	"SQL": [
+		"Create",
+		"Delete",
+		"Drop",
+		"Insert Into",
+		"Select",
+		"From",
+		"Where",
+		"Join"
+	],
+	"Postgres database": [
+		"installation",
+		"configuration",
+		"use"
+	],
+	"Non-relational database Redis": [
+		"installation",
+		"configuration",
+		"use"
+	],
+	"Load testing": "Jmeter",
+	"development methodology":"Scrum",
+	"Python": [
+		"Learning the basics",
+		"Creating a client-server application"
+	]
+}
